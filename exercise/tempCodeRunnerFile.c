@@ -1,0 +1,1 @@
+int *twosum(int arr[], int target);
